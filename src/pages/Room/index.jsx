@@ -21,6 +21,7 @@ const RoomPage = () => {
                 url : `http://localhost:3000/room/${roomId}`,
             },
             ],
+            
             scenario : {
                 mode : ZegoUIKitPrebuilt.OneONoneCall,
             },
