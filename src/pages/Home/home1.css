@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin: auto;
+  box-shadow: 5px 8px 5px 8px black;
+}
+.contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 92vh;
+  background: linear-gradient(180deg, #160e33, #ef443b 99%);
+}
+.contain1 {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

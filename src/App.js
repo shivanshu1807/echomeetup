@@ -9,6 +9,6 @@ function App() {
       <Route path="/room/:roomId" element={<RoomPage/>}/>
     </Routes>
   );
-} 
+}
 
 export default App;
